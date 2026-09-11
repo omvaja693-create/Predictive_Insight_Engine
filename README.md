@@ -88,4 +88,4 @@ Price is driven by more than size alone — location, bathrooms, and amenities l
 
 ## Author
 
-Om Vaja — [GitHub](https://github.com/omvaja693-create) · [LinkedIn](https://www.linkedin.com/in/om-vaja-35b1103a3)
+Om Vaja —
