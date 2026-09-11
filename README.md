@@ -2,6 +2,8 @@
 
 Supervised learning project to predict house prices from property features, comparing Simple, Multiple and Polynomial Regression, and implementing Gradient Descent (Batch, SGD, Mini-Batch) from scratch.
 
+**Project Explanation Video:** [Watch on Google Drive](PASTE_GOOGLE_DRIVE_LINK_HERE)
+
 ## Objective
 
 Build and evaluate multiple regression models to estimate house prices for a real estate analytics firm, and explain why certain models perform better than others.
