@@ -60,20 +60,25 @@ Predictive Insight Engine/
 
 ## Visualizations
 
-**Feature relationships with price**
 ![Feature scatter plots](visuals/1_output.png)
 
-**Simple Linear Regression fit**
+*Feature relationships with price — area shows the clearest linear trend.*
+
 ![Simple linear regression](visuals/2_output.png)
 
-**Residual analysis**
+*Simple Linear Regression fit (area vs price).*
+
 ![Residuals and distribution](visuals/3_output.png)
 
-**Linear vs Polynomial fit**
+*Residual analysis — errors are centered around zero and roughly normal.*
+
 ![Linear vs polynomial regression](visuals/4_output.png)
 
-**Gradient Descent convergence**
+*Linear vs Polynomial (degree 2) fit — nearly identical, area-price relation is close to linear.*
+
 ![Gradient descent convergence](visuals/5_output.png)
+
+*Gradient Descent convergence — Batch, SGD and Mini-Batch all reach the same minimum.*
 
 ## Conclusion
 
