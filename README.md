@@ -76,11 +76,7 @@ Predictive Insight Engine/
 
 *Linear vs Polynomial (degree 2) fit — nearly identical, area-price relation is close to linear.*
 
-![Gradient descent convergence](visuals/5_output.png)
-
-*Gradient Descent convergence — Batch, SGD and Mini-Batch all reach the same minimum.*
-
-## Conclusion
+# Conclusion
 
 Price is driven by more than size alone — location, bathrooms, and amenities like a pool move predicted price meaningfully. A production pricing tool for this firm should use Multiple Linear Regression with the full feature set rather than an area-only estimate.
 
